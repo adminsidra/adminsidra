@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidra Ansari</h1>
-<h3 align="center">A passionate Second year student, AI/ML and python developer</h3>
+<h3 align="center">A passionate Third year student, AI/ML and python developer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
